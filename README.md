@@ -10,4 +10,4 @@
 * Wing remover
 * Package remover
 ### Instructions:
-<img src="[url](https://i.imgur.com/ee92HkZ.png)https://i.imgur.com/ee92HkZ.png" width="25%" height="25%">
+<img src="https://i.imgur.com/ee92HkZ.png" width="25%" height="25%">
