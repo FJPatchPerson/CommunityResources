@@ -11,3 +11,8 @@
 * Package remover
 ### Instructions:
 <img src="https://i.imgur.com/ee92HkZ.png">
+
+## FJ Admin
+FeudalJapan Admin script by LadyAka. Distributed here as ROBLOX has taken it down.
+### Instructions:
+<img src="https://i.imgur.com/IRNfy3U.png">
