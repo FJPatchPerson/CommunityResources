@@ -1,8 +1,8 @@
 # CommunityResources
 
 ## BSCP (Battleset Community Patch) - Version 3
-Author:
-- LadyAka
+Authors:
+- Kabu_Nato & Ujinobu
 
 Contributors: 
 - BigBoiRocco, Fatalitee, AlertWW2, Ujitaka, Kabu_Nato & Ujinobu
