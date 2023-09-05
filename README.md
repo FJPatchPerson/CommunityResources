@@ -3,6 +3,7 @@
 ## BSCP (Battleset Community Patch) - Version 3
 Author:
 - LadyAka
+
 Contributors: 
 - BigBoiRocco, Fatalitee, AlertWW2, Ujitaka, Kabu_Nato & Ujinobu
 ### Patches:
@@ -19,6 +20,7 @@ Contributors:
 ## FJ Admin
 Author:
 - LadyAka
+
 Contributors: 
 - Ujinobu
 FeudalJapan Admin script by LadyAka. Distributed here as ROBLOX has taken it down.
