@@ -5,7 +5,7 @@ Authors:
 - Kabu_Nato & Ujinobu
 
 Contributors: 
-- BigBoiRocco, Fatalitee, AlertWW2, Ujitaka, Kabu_Nato & Ujinobu
+- BigBoiRocco, Fatalitee, AlertWW2 & Ujitaka
 ### Patches:
 * Medglitching
 * FFglitchting
@@ -20,9 +20,6 @@ Contributors:
 ## FJ Admin
 Author:
 - LadyAka
-
-Contributors: 
-- Ujinobu
 FeudalJapan Admin script by LadyAka. Distributed here as ROBLOX has taken it down.
 ### Instructions:
 <img src="https://i.imgur.com/IRNfy3U.png">
