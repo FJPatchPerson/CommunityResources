@@ -16,6 +16,7 @@ Contributors:
 * Nanban feature rework (Tanegashima supply cost 80 to 60 upon mod command that enables Nanban for a team)
 * Wing remover
 * Package remover
+* Security updates (Allows FJ Moderation Team to more concretely monitor battles)
 ### Instructions:
 <img src="https://i.imgur.com/ee92HkZ.png">
 
