@@ -17,6 +17,7 @@ Contributors:
 * Wing remover
 * Package remover
 * Security updates (Allows FJ Moderation Team to more concretely monitor battles)
+  - Make sure that in your game settings "Allow HTTP requests" is enabled
 ### Instructions:
 <img src="https://i.imgur.com/ee92HkZ.png">
 
