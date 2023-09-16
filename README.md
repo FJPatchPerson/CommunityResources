@@ -1,6 +1,6 @@
 # CommunityResources
 
-## BSCP (Battleset Community Patch) - Version 3
+## BSCP (Battleset Community Patch) - Version 3.1
 Authors:
 - Kabu_Nato & Ujinobu
 
