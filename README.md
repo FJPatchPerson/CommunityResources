@@ -1,11 +1,14 @@
 # CommunityResources
 
-## BSCP (Battleset Community Patch) - Version 3.1
-Authors:
-- Kabu_Nato & Ujinobu
-
-Contributors: 
-- BigBoiRocco, Fatalitee, AlertWW2 & Ujitaka
+## BSCP (Battleset Community Patch) - Version 3.2
+* Authors:
+  - Ujinobu (NanbanFeature Mod Commands/MedGlitchFix/FFIssue)
+  - NatoKabu (MedGlitchFix/FFIssue/AntiExploit)
+* Contributors:
+  - BigBoiRocco (Constructables orientation fix)
+  - Fatalitee (Constructables orientation fix)
+  - AlertWW2 (Constructables orientation fix)
+  - Ujitaka (Constructables orientation fix)
 ### Patches:
 * Medglitching
 * FFglitchting
